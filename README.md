@@ -29,4 +29,4 @@
 The R script rely on necessary R package, tensorBF, caret.
 
 ## Citation
-Pei G, Wang Y, Simon L, Dai Y, Zhao Z, Jia P. Gene expression imputation and cell type deconvolution in human brain with spatiotemporal precision and its implications for brain-related disorders. Genome Research. gr.265769.120. Under review
+Pei G, Wang Y, Simon L, Dai Y, Zhao Z, Jia P. Gene expression imputation and cell type deconvolution in human brain with spatiotemporal precision and its implications for brain-related disorders. Genome Research. gr.265769.120. https://pubmed.ncbi.nlm.nih.gov/33272935/
